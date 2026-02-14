@@ -34,8 +34,8 @@ public class PatientRequestDTO {
         return registeredDate;
     }
 
-    public void setRegisterDate(String registerDate) {
-        this.registeredDate = registerDate;
+    public void setRegisteredDate(String registeredDate) {
+        this.registeredDate = registeredDate;
     }
 
     public String getEmail() {
